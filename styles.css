@@ -12,12 +12,18 @@ body {
   background:#DBD8E3;
 }
 
- 
+.carousel-item img{
+  object-fit:contain;
+  max-height: 500px;
+  width: 400px;
+}
+
+
 
     /* Change the color of the text in the carousel captions to grey */
     .carousel-caption h3,
     .carousel-caption p {
-      color:  #DBD8E3;
+      color:  #5C5470;
     }
 
 /* Styles for Card Headers */
