@@ -3,6 +3,12 @@ html {
     background:#DBD8E3;
         display: inline-block;
 }
+ .navbar{
+  background-color:#DBD8E3 ;
+ }
+
+
+
 .gradient-background {
   background: linear-gradient(270deg, #DBD8E3, #5C5470,  #352F44,  #2A2438);
   background-size: 180% 100% 20%;
@@ -17,8 +23,6 @@ body {
   max-height: 500px;
   width: 400px;
 }
-
-
 
     /* Change the color of the text in the carousel captions to grey */
     .carousel-caption h3,
